@@ -26,7 +26,7 @@ The project consists of several parts:
 
 - **Power BI**: For data visualization and dashboard creation.
 - **MySQL**: For data storage and querying.
-- **AIMS Grid**: For project management.
+- **[AIMS Grid](https://medium.com/@lakshmiprabharamesh1993/aims-grid-a-bulls-eye-project-management-tool-for-data-analysts-team-leaders-and-directors-2cc47a122c9c)**: For project management.
 
 ## Getting Started
 
