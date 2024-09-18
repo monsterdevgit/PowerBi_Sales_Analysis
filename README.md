@@ -1,6 +1,6 @@
 # PowerBi_Sales_Analysis
 
-![Project Screenshot](Screenshot (34).png)
+![Project Screenshot](dashboard.png)
 
 ## Overview
 
