@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project aims to provide a comprehensive experience in data analysis, specifically focused on generating sales insights for a computer hardware manufacturer, ALGO Hardware. This tutorial series is designed for anyone aspiring to become a data analyst or data scientist. 
+This project provides a comprehensive experience in data analysis, specifically focused on generating sales insights for a computer hardware manufacturer, ALGO Hardware. 
 
 ## Project Breakdown
 
